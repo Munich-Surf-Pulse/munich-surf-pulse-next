@@ -1,62 +1,91 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Munich Surf Pulse Next
+
+Munich Surf Pulse is a community-driven web application designed to help river surfers in Munich plan their surf sessions more effectively. By providing real-time data on surf spot occupancy, surfers can avoid overcrowded waves and make the most of their time on the water.
+
+## Features
+
+- **Real-Time Occupancy Data:** See how crowded each surf spot is based on live reports from fellow surfers.
+- **Crowdsourced Contributions:** Submit your own occupancy reports after your surf session to help others in the community.
+- **Surf Spot Information:** Get details on popular surf spots in Munich, including current conditions and user ratings.
+- **Historical Trends:** Analyze crowd patterns over time to find the best times to surf.
+- **Community Engagement:** Connect with other surfers, share tips, and coordinate meet-ups.
+
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+To run the project locally, you'll need to have the following installed:
 
+Node.js (v14.x or higher)
+npm (v6.x or higher) or Yarn (v1.x or higher)
+Installation
+Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Munich-Surf-Pulse/munich-surf-pulse-next.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Navigate to the project directory:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+cd your-app-name
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Install the dependencies:
 
-## Learn More
+```bash
+npm install
+```
+or
+```bash
+yarn install
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Running the Application
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Start the development server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+npm dev
+```
+or
 
-## Deploy on Vercel
+```bash
+yarn start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Open your browser and navigate to:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[http://localhost:3000](http://localhost:3000)
 
-## TODO
+## Contributing
 
-- [ ] Pages
-  - [ ] Home Page with links to waves
-  - [ ] Page Separation (E1/E2)
-  - [ ] About Me -> PayPal Link
-  - [ ] Privacy / Impressum
-- [ ] Components
-  - [ ] Disclaimer
-  - [ ] Latest Measurement -> Use average
-  - [ ] VoteStatistics (last week?)
-    - [ ] Best Time
-    - [ ] Worst Time
-  - [ ] Voting Input
-    - [ ] Refine Input -> Optimization for mobile (keyboard)
-    - [ ] Spam Prevention -> Add thx for vote + delay (10min)
-  - [ ] Cookie Bot
-- General
-  - [ ] Images
-  - [ ] Uniform coloring -> BG from logo
-- [ ] Hosting
-  - [ ] Domain
-  - [ ] Cloudflare Spam Protection
-- [ ] Testing
-  - [ ] Flyer print
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
+
+### Fork the repository.
+
+Create a new branch:
+```bash
+git checkout -b feature/your-feature-name
+```
+
+Make your changes and commit them:
+```bash
+git commit -m 'Add your commit message here'
+```
+
+Push your changes to your fork:
+```bash
+git push origin feature/your-feature-name
+```
+
+Create a pull request.
+Please ensure your code follows our coding guidelines and includes appropriate tests.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+Email: g.mahlknecht@gmail.com
+Thank you for being a part of the Munich Surf Pulse community
