@@ -27,7 +27,7 @@ git clone https://github.com/Munich-Surf-Pulse/munich-surf-pulse-next.git
 Navigate to the project directory:
 
 ```bash
-cd your-app-name
+cd munich-surf-pulse-next
 ```
 
 Install the dependencies:
