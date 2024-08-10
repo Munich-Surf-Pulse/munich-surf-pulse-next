@@ -2,7 +2,7 @@ export default {
   home: {
     s1: {
       title:
-        "Entdecke die beste Zeit zum Surfen auf dem Eisbach und darüber hinaus",
+        "Surfen statt warten!",
       p1: "Münchens Fluss-Surfspots sind legendär und ziehen Surfer aus aller Welt an. Aber nichts macht die Stimmung schneller kaputt als überfüllte Wellen. Deshalb haben wir Munich Surf Pulse ins Leben gerufen - eine Community-Plattform, auf der sich Surfer gegenseitig helfen, den perfekten Zeitpunkt für einen Sprung ins Wasser zu finden.",
       p2: "Mit Echtzeit-Auslastungsberichten von anderen Surfern kannst du die Menschenmassen vermeiden und das Beste aus deiner Session machen. Egal, ob du die erste Welle des Tages erwischen oder einen ruhigen Abend surfen möchtest, unsere App hat alles für dich.",
     },

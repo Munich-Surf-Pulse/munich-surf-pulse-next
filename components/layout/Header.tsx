@@ -18,13 +18,13 @@ export default function Header({ routes }: { routes: ResolvedRoute[] }) {
           >
             <div className={"w-[50px] h-[50px] relative m-1"}>
               <Image
-                src={"/logo_round.png"}
+                src={"/logo.png"}
                 alt={"Munich SurfPulse Logo"}
                 layout="fill"
                 priority={true}
               />
             </div>
-            <div>
+            <div className={"text-sm"}>
               <div>Munich</div>
               <div>SurfPulse</div>
             </div>

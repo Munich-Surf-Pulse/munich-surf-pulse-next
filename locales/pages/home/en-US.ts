@@ -1,7 +1,7 @@
 export default {
   home: {
     s1: {
-      title: "Discover the Best Time to Surf the Eisbach and Beyond",
+      title: "Surfing instead of Waiting",
       p1: "Munich's river surfing spots are legendary, attracting surfers from around the globe. But nothing kills the vibe faster than overcrowded waves. That’s why we created Munich Surf Pulse — a community-driven platform where surfers help each other find the perfect time to hit the water.",
       p2: "With real-time occupancy reports from fellow surfers, you can avoid the crowds and make the most of your session. Whether you're looking to catch the first wave of the day or enjoy a quiet evening surf, our app has you covered.",
     },

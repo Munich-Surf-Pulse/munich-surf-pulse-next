@@ -18,7 +18,7 @@ const AboutPage: NextPage = async () => {
         <div className={"flex flex-col md:flex-row gap-8"}>
           <div className="w-40 h-40 rounded-full overflow-hidden mb-6 relative">
             <Image
-              src={"/logo.png"}
+              src={"/logo_black.png"}
               alt="Munich Surf Pulse Logo"
               layout="fill"
               objectFit="cover"
