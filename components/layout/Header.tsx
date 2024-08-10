@@ -18,7 +18,7 @@ export default function Header({ routes }: { routes: ResolvedRoute[] }) {
           >
             <div className={"w-[50px] h-[50px] relative m-1"}>
               <Image
-                src={"/logo.png"}
+                src={"/logo_white.png"}
                 alt={"Munich SurfPulse Logo"}
                 layout="fill"
                 priority={true}
