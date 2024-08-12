@@ -23,5 +23,10 @@ export default {
       p1: "Munich Surf Pulse is a labor of love, created to enhance the river surfing experience for everyone in Munich. I personally bear the full cost of running and maintaining this platform because I believe in the power of community and the joy of surfing.",
       p2: "If you find this app helpful and would like to support its continued development, even a small donation would mean the world to me. Your generosity helps keep the service running smoothly and allows me to keep improving the app for all surfers.",
     },
+    contribution: {
+      title: "Contribution",
+      p1: "Developer yourself?",
+      p2: "Whether you have ideas for new features, want to fix bugs, or simply want to improve the documentation, your contributions are highly valued. By contributing, you'll help shape the future of this project and provide a better experience for river surfers in Munich and beyond."
+    }
   },
 };

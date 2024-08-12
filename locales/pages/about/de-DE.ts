@@ -11,7 +11,7 @@ export default {
       p2: "Vielen Dank, dass du an Munich Surf Pulse teilnimmst. Gemeinsam können wir das Surfen in München zu einem noch angenehmeren Erlebnis machen!",
     },
     myself: {
-      title: "About Myself",
+      title: "Über mich",
       content:
         "Mein Name ist Gerald Mahlknecht. Ich bin Software-Entwickler von Beruf und im Herzen ein leidenschaftlicher Surfer. Indem ich meine technischen Fähigkeiten mit meiner Liebe zum Surfen kombiniere, habe ich Munich Surf Pulse ins Leben gerufen, um anderen Surfern zu helfen, in Echtzeit zu erfahren, wie voll die Surfspots sind.",
       contact: {
@@ -22,6 +22,11 @@ export default {
       title: "Support",
       p1: "Munich Surf Pulse wurde mit viel Liebe geschaffen, um das Surferlebnis auf dem Fluss für jeden in München zu verbessern. Ich persönlich trage die vollen Kosten für den Betrieb und die Pflege dieser Plattform, weil ich an die Kraft der Gemeinschaft und die Freude am Surfen glaube.",
       p2: "Wenn du diese App hilfreich findest und ihre weitere Entwicklung unterstützen möchtest, würde mir selbst eine kleine Spende viel bedeuten. Dank Deiner Großzügigkeit kann der Dienst reibungslos funktionieren und ich kann die App für alle Surfer weiter verbessern.",
+    },
+    contribution: {
+      title: "Beitragen",
+      p1: "Selbst Entwickler?",
+      p2: "Egal, ob du Ideen für neue Features hast, Bugs beheben möchtest oder einfach nur die Dokumentation verbessern willst – deine Beiträge sind von großem Wert. Durch deine Mitarbeit hilfst du dabei, die Zukunft dieses Projekts mitzugestalten und eine bessere Erfahrung für Flusssurfer in München und darüber hinaus zu ermöglichen.",
     },
   },
 };
