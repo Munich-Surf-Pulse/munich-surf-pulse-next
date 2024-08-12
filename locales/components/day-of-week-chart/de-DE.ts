@@ -1,7 +1,7 @@
 export default {
   "day-of-week-chart": {
     title: "Tagesbasierte Übersicht",
-    description: "Occupancy per Week Day",
+    description: "Auslastung pro Wochentag",
     min: "Min.",
     max: "Max.",
     avg: "Avg.",
