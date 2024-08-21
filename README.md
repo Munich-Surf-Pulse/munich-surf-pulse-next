@@ -1,5 +1,7 @@
 # Munich Surf Pulse Next
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb2aadf5-ac1b-495a-b37b-ad1df351b75f/deploy-status)](https://app.netlify.com/sites/effervescent-tulumba-dea42c/deploys)
+
 Munich Surf Pulse is a community-driven web application designed to help river surfers in Munich plan their surf sessions more effectively. By providing real-time data on surf spot occupancy, surfers can avoid overcrowded waves and make the most of their time on the water.
 
 ## Features
