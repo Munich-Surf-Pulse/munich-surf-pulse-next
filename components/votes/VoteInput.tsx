@@ -47,7 +47,7 @@ export const VoteInput: FC<VoteInputProps> = ({ location, locales }) => {
   }, [latestVote]);
 
   return (
-    <Card>
+    <Card id={"vote"}>
       <CardHeader>
         <CardTitle>{title}</CardTitle>
       </CardHeader>

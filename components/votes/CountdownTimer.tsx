@@ -16,7 +16,7 @@ export const CountdownTimer: FC<{
     const minutes = Math.floor(duration.asMinutes());
     const seconds = duration.seconds();
 
-    if (minutes === 0 && seconds === 0) {
+    if (minutes <= 0 && seconds <= 0) {
       onCountdownComplete();
     }
 
